@@ -1,0 +1,92 @@
+[pass 0]  Avg. residual error: 2.3392050529342736,  Avg. iteration: 3.000000
+[pass 1]  Avg. residual error: 0.322338531099608,  Avg. iteration: 2.720588
+[pass 2]  Avg. residual error: 0.19120350060835012,  Avg. iteration: 2.000000
+[pass 3]  Avg. residual error: 0.09352085277190784,  Avg. iteration: 2.000000
+[pass 4]  Avg. residual error: 0.062049689719819,  Avg. iteration: 2.000000
+[pass 5]  Avg. residual error: 0.03343268009401611,  Avg. iteration: 2.000000
+[pass 6]  Avg. residual error: 0.026737168901070005,  Avg. iteration: 2.000000
+[pass 7]  Avg. residual error: 0.016329769738696306,  Avg. iteration: 2.000000
+[pass 8]  Avg. residual error: 0.014039672567498987,  Avg. iteration: 2.000000
+[pass 9]  Avg. residual error: 0.009590845800121406,  Avg. iteration: 2.000000
+[pass 10]  Avg. residual error: 0.008232902427247786,  Avg. iteration: 2.000000
+[pass 11]  Avg. residual error: 0.005990730327351765,  Avg. iteration: 2.000000
+[pass 12]  Avg. residual error: 0.0052024045009531105,  Avg. iteration: 2.000000
+[pass 13]  Avg. residual error: 0.003905294158274054,  Avg. iteration: 2.000000
+[pass 14]  Avg. residual error: 0.003378213739316799,  Avg. iteration: 2.000000
+[pass 15]  Avg. residual error: 0.002622637238369467,  Avg. iteration: 2.000000
+[pass 16]  Avg. residual error: 0.0022454500814906527,  Avg. iteration: 2.000000
+[pass 17]  Avg. residual error: 0.0017787145639380354,  Avg. iteration: 2.000000
+[pass 18]  Avg. residual error: 0.0015187079725565138,  Avg. iteration: 2.000000
+[pass 19]  Avg. residual error: 0.0012179097482476395,  Avg. iteration: 2.000000
+[pass 20]  Avg. residual error: 0.001034286744685084,  Avg. iteration: 1.779412
+[pass 21]  Avg. residual error: 8.398437107079812E-4,  Avg. iteration: 1.000000
+
+
+[block 0]  Max node: 685168  PageRank: 3.49887E-6
+[block 1]  Max node: 685169  PageRank: 7.26665E-6
+[block 2]  Max node: 685170  PageRank: 7.36389E-6
+[block 3]  Max node: 685171  PageRank: 7.84502E-6
+[block 4]  Max node: 685172  PageRank: 3.5926E-7
+[block 5]  Max node: 685173  PageRank: 4.2094E-7
+[block 6]  Max node: 685174  PageRank: 6.71932E-6
+[block 7]  Max node: 685175  PageRank: 8.16817E-6
+[block 8]  Max node: 685176  PageRank: 2.8461E-7
+[block 9]  Max node: 685177  PageRank: 6.71489E-6
+[block 10]  Max node: 685178  PageRank: 6.68529E-6
+[block 11]  Max node: 685179  PageRank: 6.71046E-6
+[block 12]  Max node: 685180  PageRank: 5.9564E-7
+[block 13]  Max node: 685181  PageRank: 3.5831E-7
+[block 14]  Max node: 685182  PageRank: 5.3393E-7
+[block 15]  Max node: 685183  PageRank: 4.7868E-7
+[block 16]  Max node: 685184  PageRank: 4.8401E-7
+[block 17]  Max node: 685185  PageRank: 3.5831E-7
+[block 18]  Max node: 685186  PageRank: 6.8677E-7
+[block 19]  Max node: 685187  PageRank: 3.7121E-7
+[block 20]  Max node: 685188  PageRank: 4.8401E-7
+[block 21]  Max node: 685189  PageRank: 4.7868E-7
+[block 22]  Max node: 685190  PageRank: 4.224E-7
+[block 23]  Max node: 685191  PageRank: 7.815E-7
+[block 24]  Max node: 685192  PageRank: 4.8401E-7
+[block 25]  Max node: 685193  PageRank: 4.8401E-7
+[block 26]  Max node: 685194  PageRank: 3.5831E-7
+[block 27]  Max node: 685195  PageRank: 4.7868E-7
+[block 28]  Max node: 685196  PageRank: 4.5694E-7
+[block 29]  Max node: 685197  PageRank: 3.2065E-7
+[block 30]  Max node: 685198  PageRank: 4.8401E-7
+[block 31]  Max node: 685199  PageRank: 1.45206E-6
+[block 32]  Max node: 685200  PageRank: 4.6583E-7
+[block 33]  Max node: 685201  PageRank: 4.6583E-7
+[block 34]  Max node: 685202  PageRank: 6.5998E-7
+[block 35]  Max node: 685203  PageRank: 4.2232E-7
+[block 36]  Max node: 685204  PageRank: 4.8401E-7
+[block 37]  Max node: 685205  PageRank: 3.5831E-7
+[block 38]  Max node: 685206  PageRank: 3.7121E-7
+[block 39]  Max node: 685207  PageRank: 6.8677E-7
+[block 40]  Max node: 685208  PageRank: 4.8401E-7
+[block 41]  Max node: 685209  PageRank: 4.8401E-7
+[block 42]  Max node: 685210  PageRank: 4.8401E-7
+[block 43]  Max node: 685211  PageRank: 3.5831E-7
+[block 44]  Max node: 685212  PageRank: 1.79671E-6
+[block 45]  Max node: 685213  PageRank: 1.79671E-6
+[block 46]  Max node: 685214  PageRank: 1.79671E-6
+[block 47]  Max node: 685215  PageRank: 1.79671E-6
+[block 48]  Max node: 685216  PageRank: 1.79671E-6
+[block 49]  Max node: 685217  PageRank: 1.79671E-6
+[block 50]  Max node: 685218  PageRank: 4.7868E-7
+[block 51]  Max node: 685219  PageRank: 2.189E-7
+[block 52]  Max node: 685220  PageRank: 8.1196E-7
+[block 53]  Max node: 685221  PageRank: 6.5998E-7
+[block 54]  Max node: 685222  PageRank: 7.8008E-7
+[block 55]  Max node: 685223  PageRank: 3.5831E-7
+[block 56]  Max node: 685224  PageRank: 3.7482E-7
+[block 57]  Max node: 685225  PageRank: 4.2232E-7
+[block 58]  Max node: 685226  PageRank: 4.2232E-7
+[block 59]  Max node: 685227  PageRank: 1.9606E-6
+[block 60]  Max node: 685228  PageRank: 1.88119E-6
+[block 61]  Max node: 685229  PageRank: 3.5831E-7
+[block 62]  Max node: 685162  PageRank: 2.72815E-6
+[block 63]  Max node: 685163  PageRank: 2.72815E-6
+[block 64]  Max node: 685164  PageRank: 2.72372E-6
+[block 65]  Max node: 685165  PageRank: 2.69502E-6
+[block 66]  Max node: 685166  PageRank: 2.71929E-6
+[block 67]  Max node: 685167  PageRank: 2.72815E-6

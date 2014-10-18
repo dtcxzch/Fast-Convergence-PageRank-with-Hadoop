@@ -1,0 +1,6 @@
+Iteration 0  Avg. residual error: 2.3385827422062664
+Iteration 1  Avg. residual error: 0.3229186718255184
+Iteration 2  Avg. residual error: 0.19205372241145308
+Iteration 3  Avg. residual error: 0.09416565085445763
+Iteration 4  Avg. residual error: 0.06287620062460779
+Iteration 5  Avg. residual error: 0.03389726990207667
